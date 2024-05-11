@@ -1,1 +1,1 @@
-# whyhugo-CSIE-Camp-Computer-Vision
+# NTNU CSIE Camp ML course - Computer Vision
